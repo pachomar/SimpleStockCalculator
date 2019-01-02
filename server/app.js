@@ -113,7 +113,6 @@ app.post('/api/formulas/:formulaIndex', function(request, response){
     //Calculate Geometric Mean
     case "2":
     {
-      console.log(data.stocks.length)
        var product = 1;
        for(var x=0; x< data.stocks.length; x++)
        {
