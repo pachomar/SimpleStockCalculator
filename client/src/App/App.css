@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  border-style: solid;
+  height: 740px;
+  width: 600px;
+  float: none;
+  margin: 0 auto;
+  background-image: linear-gradient(to right, gray,silver);
+}
+
+.App-link {
+  color: #61dafb;
+}

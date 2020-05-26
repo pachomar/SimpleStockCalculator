@@ -1,0 +1,7 @@
+.gridContainer table{
+    max-height:300px;
+    width:96%;
+    border: 1px solid;
+    margin: 10px 10px 10px 10px;
+    background-color:white;
+}

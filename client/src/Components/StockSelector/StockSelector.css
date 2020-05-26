@@ -1,0 +1,32 @@
+.StockSelector{
+    width: 250px;
+    height: 220px;
+    border: 1px solid blue;
+    background-image: linear-gradient(to right,goldenrod, gold);
+    margin: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.rowC {
+    display:flex; 
+    flex-direction:row;
+}
+
+.StockSelector select{ 
+    background-color: white;
+    padding: 0 0 0 0;
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height:30px;
+    border: 1px solid black;
+}
+
+.StockSelector option{
+    width: 150px;
+} 
+
+.StockSelector .detail{
+    text-align:left;
+    padding: 0 0 0 0;
+}

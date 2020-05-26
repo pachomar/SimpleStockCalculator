@@ -1,0 +1,17 @@
+.bigButton{
+    margin: 10px 10px 10px 10px;
+}
+
+.rowB {
+    display:flex; 
+    flex-direction:row;
+}
+
+.bigButton button{
+    height:60px;
+    width:50%;
+}
+
+.bigButton label{
+    width:50%
+}
